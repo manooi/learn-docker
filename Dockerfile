@@ -7,4 +7,4 @@ COPY . .
 # For documentation purpose only!
 EXPOSE 3000 
 
-CMD ["node", "index.js"]
+CMD ["npm", "run", "dev"]
